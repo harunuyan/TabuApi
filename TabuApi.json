@@ -1,0 +1,2023 @@
+[
+{
+"key":"Anlatım Biçimi",
+"bannedWord1":"Betimleme",
+"bannedWord2":"Öyküleme",
+"bannedWord3":"Tartışmacı",
+"bannedWord4":"Açıklayıcı",
+"bannedWord5":"Paragraf"
+},
+
+{
+"key":"Banka",
+"bannedWord1":"Para",
+"bannedWord2":"Çek",
+"bannedWord3":"Kredi Kartı",
+"bannedWord4":"Hesap",
+"bannedWord5":"Faiz"
+},
+
+{
+"key":"Benzetme",
+"bannedWord1":"Benzeyen",
+"bannedWord2":"Benzetilen",
+"bannedWord3":"Gibi",
+"bannedWord4":"Güçlü",
+"bannedWord5":"Güçsüz"
+},
+
+{
+"key":"Benzeşme",
+"bannedWord1":"Sert",
+"bannedWord2":"Ünsüz",
+"bannedWord3":"Fıstıkçı Şahap",
+"bannedWord4":"Kural",
+"bannedWord5":"Sürtüşme"
+},
+
+{
+"key":"Düğün",
+"bannedWord1":"Yüzük",
+"bannedWord2":"Evlenmek",
+"bannedWord3":"Gelin",
+"bannedWord4":"Damat",
+"bannedWord5":"Gerdek"
+},
+
+{
+"key":"Eş Sesli",
+"bannedWord1":"Yazılış",
+"bannedWord2":"Okunuş",
+"bannedWord3":"Aynı",
+"bannedWord4":"Kelime",
+"bannedWord5":"Sözcük"
+},
+
+{
+"key":"Fabl",
+"bannedWord1":"Hayvan",
+"bannedWord2":"Masal",
+"bannedWord3":"İnsan",
+"bannedWord4":"Hikaye",
+"bannedWord5":"Konuşma"
+},
+
+{
+"key":"Fay",
+"bannedWord1":"Hat",
+"bannedWord2":"Deprem",
+"bannedWord3":"Kırılmak",
+"bannedWord4":"Dünya",
+"bannedWord5":"İstanbul"
+},
+
+{
+"key":"Küçümseme",
+"bannedWord1":"Nitelik",
+"bannedWord2":"Değersiz",
+"bannedWord3":"Aşağılama",
+"bannedWord4":"Yargı",
+"bannedWord5":"Cümle"
+},
+
+{
+"key":"Masal",
+"bannedWord1":"Olağanüstü",
+"bannedWord2":"Kahraman",
+"bannedWord3":"Yazar",
+"bannedWord4":"Kitap",
+"bannedWord5":"Hikaye"
+},
+
+{
+"key":"Kök",
+"bannedWord1":"Sözcük",
+"bannedWord2":"Ek",
+"bannedWord3":"Yapım",
+"bannedWord4":"Kelime",
+"bannedWord5":"Ağaç"
+},
+
+{
+"key":"Kuşbakışı",
+"bannedWord1":"Harita",
+"bannedWord2":"Tepe",
+"bannedWord3":"Yukarı",
+"bannedWord4":"Görmek",
+"bannedWord5":"Kroki"
+},
+
+{
+"key":"Koşul",
+"bannedWord1":"Şart",
+"bannedWord2":"Neden",
+"bannedWord3":"Cümle",
+"bannedWord4":"Eğer",
+"bannedWord5":"Sonuç"
+},
+
+{
+"key":"Fiil",
+"bannedWord1":"İş",
+"bannedWord2":"Oluş",
+"bannedWord3":"Haraket",
+"bannedWord4":"Eylem",
+"bannedWord5":"Sözcük"
+},
+
+{
+"key":"Sözlük",
+"bannedWord1":"Anlam",
+"bannedWord2":"Kelime",
+"bannedWord3":"Sözcük",
+"bannedWord4":"Açıklama",
+"bannedWord5":"Lügat"
+},
+
+{
+"key":"Tavla",
+"bannedWord1":"Oyun",
+"bannedWord2":"Mars",
+"bannedWord3":"Pul",
+"bannedWord4":"Zar",
+"bannedWord5":"Yenmek"
+},
+
+{
+"key":"Saat",
+"bannedWord1":"Akrep",
+"bannedWord2":"Yelkovan",
+"bannedWord3":"Zaman",
+"bannedWord4":"Duvar",
+"bannedWord5":"Kol"
+},
+
+{
+"key":"Reçete",
+"bannedWord1":"İlaç",
+"bannedWord2":"Eczane",
+"bannedWord3":"Hasta",
+"bannedWord4":"Doktor",
+"bannedWord5":"Hastahane"
+},
+
+{
+"key":"Paragraf",
+"bannedWord1":"Sınav",
+"bannedWord2":"Soru",
+"bannedWord3":"Düşünce",
+"bannedWord4":"Metin",
+"bannedWord5":"Uzun"
+},
+
+{
+"key":"Okka",
+"bannedWord1":"Ağırlık",
+"bannedWord2":"Ölçü",
+"bannedWord3":"Birim",
+"bannedWord4":"Kilo",
+"bannedWord5":"Tartı"
+},
+
+{
+"key":"Mücevher",
+"bannedWord1":"Kadın",
+"bannedWord2":"Takı",
+"bannedWord3":"Bilezik",
+"bannedWord4":"Altın",
+"bannedWord5":"Kolye"
+},
+
+{
+"key":"Mecaz",
+"bannedWord1":"Kelime",
+"bannedWord2":"Sözlük",
+"bannedWord3":"Gerçek Anlam",
+"bannedWord4":"Yan Anlam",
+"bannedWord5":"Terim Anlam"
+},
+
+{
+"key":"İkilem",
+"bannedWord1":"Kararsız",
+"bannedWord2":"Kalmak",
+"bannedWord3":"Acaba",
+"bannedWord4":"Tercih",
+"bannedWord5":"Cümle"
+},
+
+{
+"key":"Özne",
+"bannedWord1":"Cümle",
+"bannedWord2":"İş",
+"bannedWord3":"Kişi",
+"bannedWord4":"Varlık",
+"bannedWord5":"Öge"
+},
+
+{
+"key":"Öykü",
+"bannedWord1":"Hikaye",
+"bannedWord2":"Kahraman",
+"bannedWord3":"Yazar",
+"bannedWord4":"Yer",
+"bannedWord5":"Kitap"
+},
+
+{
+"key":"Öneri",
+"bannedWord1":"Teklif",
+"bannedWord2":"Çözüm",
+"bannedWord3":"Yol",
+"bannedWord4":"Cümle",
+"bannedWord5":"İyi olur"
+},
+
+{
+"key":"Zıt Anlam",
+"bannedWord1":"Karşıt",
+"bannedWord2":"Sözcük",
+"bannedWord3":"Farklı",
+"bannedWord4":"Örnek",
+"bannedWord5":"Birbirine"
+},
+
+{
+"key":"Varsayım",
+"bannedWord1":"Olmamış",
+"bannedWord2":"Tut ki",
+"bannedWord3":"Farz et",
+"bannedWord4":"Diyelim",
+"bannedWord5":"Şöyle"
+},
+
+{
+"key":"Uyak",
+"bannedWord1":"Şiir",
+"bannedWord2":"Dize",
+"bannedWord3":"Benzerlik",
+"bannedWord4":"Kafiye",
+"bannedWord5":"Ses"
+},
+
+{
+"key":"Şiir",
+"bannedWord1":"Şair",
+"bannedWord2":"Mısra",
+"bannedWord3":"Dize",
+"bannedWord4":"Kıta",
+"bannedWord5":"Dörtlük"
+},
+
+{
+"key" :"Okey",
+"bannedWord1" :"Istaka",
+"bannedWord2" :"Taş",
+"bannedWord3" :"Oyun",
+"bannedWord4" :"Zar",
+"bannedWord5" :"101"
+}, 
+
+{
+"key" :"Kalem",
+"bannedWord1" :"Kağıt",
+"bannedWord2" :"Yazmak",
+"bannedWord3" :"Kurşun",
+"bannedWord4" :"Dolma",
+"bannedWord5" :"Tükenmez"
+}, 
+
+{
+"key" :"Çorap",
+"bannedWord1" :"Ten Rengi",
+"bannedWord2" :"Ayak",
+"bannedWord3" :"Giymek",
+"bannedWord4" :"İnce",
+"bannedWord5" :"Kaçmak"
+},
+
+{
+"key" :"Abartma",
+"bannedWord1" :"Mübalağa",
+"bannedWord2" :"Aşırı",
+"bannedWord3" :"Farklı",
+"bannedWord4" :"Göstermek",
+"bannedWord5" :"Olduğundan"
+},
+
+{
+"key" :"Ödev",
+"bannedWord1" :"Ders",
+"bannedWord2" :"Çalışmak",
+"bannedWord3" :"Okul",
+"bannedWord4" :"Öğretmen",
+"bannedWord5" :"Ev"
+},
+
+{
+"key" :"Üç Nokta",
+"bannedWord1" :"Noktalama",
+"bannedWord2" :"Son",
+"bannedWord3" :"Tamamlanmamış",
+"bannedWord4" :"İstenmeyen",
+"bannedWord5" :"Cümle"
+},
+
+{
+"key" :"Hayıflanma",
+"bannedWord1" :"Pişmanlık",
+"bannedWord2" :"Üzüntü",
+"bannedWord3" :"Geçmiş",
+"bannedWord4" :"Cümle",
+"bannedWord5" :"Anlam"
+},
+
+{
+"key" :"Olasılık",
+"bannedWord1" :"Cümle",
+"bannedWord2" :"Anlam",
+"bannedWord3" :"İhtimal",
+"bannedWord4" :"Belki",
+"bannedWord5" :"Olabilir"
+},
+
+{
+"key" :"Soyut",
+"bannedWord1" :"Duyu",
+"bannedWord2" :"Algılamak",
+"bannedWord3" :"Görülmeyen",
+"bannedWord4" :"İsim",
+"bannedWord5" :"Somut"
+},
+
+{
+"key" :"Zarf",
+"bannedWord1" :"Mektup",
+"bannedWord2" :"Posta",
+"bannedWord3" :"Göndermek",
+"bannedWord4" :"Kapak",
+"bannedWord5" :"Gizli"
+},
+
+{
+"key" :"Nokta",
+"bannedWord1" :"Cümle",
+"bannedWord2" :"Son",
+"bannedWord3" :"İşaret",
+"bannedWord4" :"Tarih",
+"bannedWord5" :"Saat"
+},
+
+{
+"key" :"Aheste",
+"bannedWord1" :"Yavaş",
+"bannedWord2" :"Ağır",
+"bannedWord3" :"Hızlı",
+"bannedWord4" :"Durgun",
+"bannedWord5" :"Tembel"
+},
+
+{
+"key" :"Hece",
+"bannedWord1" :"Kelime",
+"bannedWord2" :"Harf",
+"bannedWord3" :"Ses",
+"bannedWord4" :"Okumak",
+"bannedWord5" :"Yazı"
+},
+
+{
+"key" :"Küsmek",
+"bannedWord1" :"Darılmak",
+"bannedWord2" :"Kızmak",
+"bannedWord3" :"Konuşmak",
+"bannedWord4" :"Tartışmak",
+"bannedWord5" :"Kavga"
+},
+
+{
+"key" :"Avize",
+"bannedWord1" :"Lamba",
+"bannedWord2" :"Oda",
+"bannedWord3" :"Tavan",
+"bannedWord4" :"Işık",
+"bannedWord5" :"Aydınlık"
+},
+
+{
+"key" :"Koordinat",
+"bannedWord1" :"Düzlem",
+"bannedWord2" :"Yer",
+"bannedWord3" :"Enlem",
+"bannedWord4" :"Boylam",
+"bannedWord5" :"Vermek"
+},
+
+{
+"key" :"Baskül",
+"bannedWord1" :"Tartı",
+"bannedWord2" :"Kilo",
+"bannedWord3" :"Ölçü",
+"bannedWord4" :"Hafif",
+"bannedWord5" :"Ağırlık"
+},
+
+{
+"key" :"Harabe",
+"bannedWord1" :"Yıkık",
+"bannedWord2" :"Eski",
+"bannedWord3" :"Tarihi",
+"bannedWord4" :"Efes",
+"bannedWord5" :"Gezmek"
+},
+
+{
+"key" :"Çaylak",
+"bannedWord1" :"Acemi",
+"bannedWord2" :"Deneyim",
+"bannedWord3" :"Tecrübe",
+"bannedWord4" :"Usta",
+"bannedWord5" :"Yeni"
+},
+
+{
+"key" :"Cemre",
+"bannedWord1" :"Düşmek",
+"bannedWord2" :"Hava",
+"bannedWord3" :"Toprak",
+"bannedWord4" :"Su",
+"bannedWord5" :"Bahar"
+},
+
+{
+"key" :"Halüsinasyon",
+"bannedWord1" :"Hayal",
+"bannedWord2" :"Gerçek",
+"bannedWord3" :"Görmek",
+"bannedWord4" :"İllüzyon",
+"bannedWord5" :"Serap"
+},
+
+{
+"key" :"Şamdan",
+"bannedWord1" :"Mum",
+"bannedWord2" :"Işık",
+"bannedWord3" :"Aydınlık",
+"bannedWord4" :"Yakmak",
+"bannedWord5" :"Süs"
+},
+
+{
+"key" :"Tırabzan",
+"bannedWord1" :"Merdiven",
+"bannedWord2" :"Korkuluk",
+"bannedWord3" :"İnmek",
+"bannedWord4" :"Çıkmak",
+"bannedWord5" :"Bina"
+},
+
+{
+"key" :"Korniş",
+"bannedWord1" :"Tavan",
+"bannedWord2" :"Perde",
+"bannedWord3" :"Asmak",
+"bannedWord4" :"Pencere",
+"bannedWord5" :"Cam"
+},
+
+
+{
+"key" :"Nihale",
+"bannedWord1" :"Altlık",
+"bannedWord2" :"Tencere",
+"bannedWord3" :"Çaydanlık",
+"bannedWord4" :"Sıcak",
+"bannedWord5" :"Tezgah"
+},
+
+{
+"key" :"Duy",
+"bannedWord1" :"Tavan",
+"bannedWord2" :"Lamba",
+"bannedWord3" :"Işık",
+"bannedWord4" :"İşitmek",
+"bannedWord5" :"Anahtar"
+},
+
+{
+"key" :"Armağan",
+"bannedWord1" :"Hediye",
+"bannedWord2" :"Vermek",
+"bannedWord3" :"Almak",
+"bannedWord4" :"Doğum Günü",
+"bannedWord5" :"Sevindirmek"
+},
+
+{
+"key" :"Kabzımal",
+"bannedWord1" :"Meyve",
+"bannedWord2" :"Hal",
+"bannedWord3" :"Satmak",
+"bannedWord4" :"Aracı",
+"bannedWord5" :"Sebze"
+},
+
+{
+"key" :"Pişmanlık",
+"bannedWord1" :"Hata",
+"bannedWord2" :"Üzülmek",
+"bannedWord3" :"Yanlış",
+"bannedWord4" :"Keşke",
+"bannedWord5" :"Son"
+},
+
+{
+"key" :"Kumbara",
+"bannedWord1" :"Para",
+"bannedWord2" :"Biriktirmek",
+"bannedWord3" :"Yatırım",
+"bannedWord4" :"Banka",
+"bannedWord5" :"Saklamak"
+},
+{
+"key" :"Antika",
+"bannedWord1" :"Müzayede",
+"bannedWord2" :"Zengin",
+"bannedWord3" :"Eski",
+"bannedWord4" :"Tablo",
+"bannedWord5" :"Tarihi"
+},
+
+{
+"key" :"Sağdıç",
+"bannedWord1" :"Damat",
+"bannedWord2" :"Düğün",
+"bannedWord3" :"Gelin",
+"bannedWord4" :"Güvey",
+"bannedWord5" :"Sırtına Vurmak"
+},
+
+{
+"key" :"Adem Elması",
+"bannedWord1" :"Erkek",
+"bannedWord2" :"Gırtlak",
+"bannedWord3" :"Çıkıntı",
+"bannedWord4" :"Boğaz",
+"bannedWord5" :"Havva"
+},
+
+{
+"key" :"Satranç",
+"bannedWord1" :"Şah-Mat",
+"bannedWord2" :"Kale",
+"bannedWord3" :"Vezir",
+"bannedWord4" :"Piyon",
+"bannedWord5" :"Fil"
+},
+
+{
+"key" :"Mangala",
+"bannedWord1" :"Oyun",
+"bannedWord2" :"Osmanlı",
+"bannedWord3" :"Kuyu",
+"bannedWord4" :"Taş",
+"bannedWord5" :"Hazine"
+},
+
+{
+"key" :"Paraşüt",
+"bannedWord1" :"Uçak",
+"bannedWord2" :"Atlamak",
+"bannedWord3" :"Uçmak",
+"bannedWord4" :"Balon",
+"bannedWord5" :"Hava"
+},
+
+{
+"key" :"Balmumu",
+"bannedWord1" :"Mum",
+"bannedWord2" :"Erimek",
+"bannedWord3" :"Heykel",
+"bannedWord4" :"Müze",
+"bannedWord5" :"Bal"
+},
+
+{
+"key" :"Fermuar",
+"bannedWord1" :"Pantolon",
+"bannedWord2" :"Mont",
+"bannedWord3" :"Giysi",
+"bannedWord4" :"Kıyafet",
+"bannedWord5" :"Kot"
+},
+
+{
+"key" :"Kelebek",
+"bannedWord1" :"Renkli",
+"bannedWord2" :"Uçmak",
+"bannedWord3" :"Tırtıl",
+"bannedWord4" :"Koza",
+"bannedWord5" :"Hayvan"
+},
+
+{
+"key" :"Gökkuşağı",
+"bannedWord1" :"Renkli",
+"bannedWord2" :"Hava",
+"bannedWord3" :"Güneş",
+"bannedWord4" :"Yağmur",
+"bannedWord5" :"Ebem"
+},
+
+{
+"key" :"Tiyatro",
+"bannedWord1" :"Oyuncu",
+"bannedWord2" :"Sahne",
+"bannedWord3" :"Perde",
+"bannedWord4" :"Oyun",
+"bannedWord5" :"Suflör"
+},
+
+{
+"key" :"Bağlama",
+"bannedWord1" :"Türkü",
+"bannedWord2" :"Müzik",
+"bannedWord3" :"Saz",
+"bannedWord4" :"Tel",
+"bannedWord5" :"Akort"
+},
+
+{
+"key" :"Dost",
+"bannedWord1" :"Güven",
+"bannedWord2" :"Samimi",
+"bannedWord3" :"Dürüst",
+"bannedWord4" :"Arkadaş",
+"bannedWord5" :"Ahlaklı"
+},
+
+{
+"key" :"Dergi",
+"bannedWord1" :"Gazete",
+"bannedWord2" :"Mecmua",
+"bannedWord3" :"Makale",
+"bannedWord4" :"Yazı",
+"bannedWord5" :"Kapak"
+},
+
+{
+"key" :"Kapan",
+"bannedWord1" :"Av",
+"bannedWord2" :"Kurt",
+"bannedWord3" :"Hayvan",
+"bannedWord4" :"Tuzak",
+"bannedWord5" :"Fare"
+},
+
+{
+"key" :"Kedi",
+"bannedWord1" :"Pati",
+"bannedWord2" :"Fare",
+"bannedWord3" :"Tüy",
+"bannedWord4" :"Kuyruk",
+"bannedWord5" :"Hayvan"
+},
+
+{
+"key" :"Anahtar",
+"bannedWord1" :"Kilit",
+"bannedWord2" :"Metal",
+"bannedWord3" :"Kasa",
+"bannedWord4" :"Kapı",
+"bannedWord5" :"Çilingir"
+},
+
+{
+"key" :"Empati",
+"bannedWord1" :"Kendini",
+"bannedWord2" :"Başkası",
+"bannedWord3" :"Yerine",
+"bannedWord4" :"Koyma",
+"bannedWord5" :"Düşünme"
+},
+
+{
+"key" :"Hoşgörü",
+"bannedWord1" :"Mevlana",
+"bannedWord2" :"Anlayış",
+"bannedWord3" :"Empati",
+"bannedWord4" :"Ne olursan",
+"bannedWord5" :"Gel"
+},
+
+{
+"key" :"Kişileştirme",
+"bannedWord1" :"İnsan",
+"bannedWord2" :"Fabl",
+"bannedWord3" :"Hayvan",
+"bannedWord4" :"Varlık",
+"bannedWord5" :"Konuşturma"
+},
+
+{
+"key" :"Özçekim",
+"bannedWord1" :"Selfie",
+"bannedWord2" :"Telefon",
+"bannedWord3" :"Kendi",
+"bannedWord4" :"Fotoğraf",
+"bannedWord5" :"Poz"
+},
+
+{
+"key" :"Bonkör",
+"bannedWord1" :"Eliaçık",
+"bannedWord2" :"Cömert",
+"bannedWord3" :"Para",
+"bannedWord4" :"Gönlü Zengin",
+"bannedWord5" :"Harcamak"
+},
+
+{
+"key" :"Heybetli",
+"bannedWord1" :"Yüce",
+"bannedWord2" :"Dağ",
+"bannedWord3" :"Büyük",
+"bannedWord4" :"Yüksek",
+"bannedWord5" :"İri"
+},
+
+{
+"key" :"Çıra",
+"bannedWord1" :"Ateş",
+"bannedWord2" :"Yakmak",
+"bannedWord3" :"Odun",
+"bannedWord4" :"Tahta",
+"bannedWord5" :"Çay"
+},
+
+{
+"key" :"Mani",
+"bannedWord1" :"Kısa",
+"bannedWord2" :"Şiir",
+"bannedWord3" :"Edebiyat",
+"bannedWord4" :"Sakız",
+"bannedWord5" :"Engel"
+},
+
+{
+"key" :"Fidan",
+"bannedWord1" :"Ağaç",
+"bannedWord2" :"Büyümek",
+"bannedWord3" :"Küçük",
+"bannedWord4" :"Orman",
+"bannedWord5" :"Dikmek"
+},
+
+{
+"key" :"Pratik",
+"bannedWord1" :"Kolay",
+"bannedWord2" :"Zeka",
+"bannedWord3" :"Çabuk",
+"bannedWord4" :"Hızlı",
+"bannedWord5" :"Çözüm"
+},
+
+{
+"key" :"Kıvılcım",
+"bannedWord1" :"Ateş",
+"bannedWord2" :"Kibrit",
+"bannedWord3" :"Çakmak",
+"bannedWord4" :"Taş",
+"bannedWord5" :"Sürtmek"
+},
+
+{
+"key" :"Miskin",
+"bannedWord1" :"Tembel",
+"bannedWord2" :"Uyuşuk",
+"bannedWord3" :"Yavaş",
+"bannedWord4" :"Ağır",
+"bannedWord5" :"Kedi"
+},
+
+{
+"key" :"Mesai",
+"bannedWord1" :"Saat",
+"bannedWord2" :"İş",
+"bannedWord3" :"Fazla",
+"bannedWord4" :"Akşam",
+"bannedWord5" :"Kalmak"
+},
+
+
+{
+"key" :"Köhne",
+"bannedWord1" :"Eski",
+"bannedWord2" :"Tarihi",
+"bannedWord3" :"Yıkılmak",
+"bannedWord4" :"Bina",
+"bannedWord5" :"Harabe"
+},
+
+
+{
+"key" :"Küremek",
+"bannedWord1" :"Kar",
+"bannedWord2" :"Ev",
+"bannedWord3" :"Yol",
+"bannedWord4" :"Buz",
+"bannedWord5" :"Kış"
+},
+
+
+{
+"key" :"Yayık",
+"bannedWord1" :"Ayran",
+"bannedWord2" :"Su",
+"bannedWord3" :"Yoğurt",
+"bannedWord4" :"Çalkalamak",
+"bannedWord5" :"Süt"
+},
+
+
+{
+"key" :"Akrostiş",
+"bannedWord1" :"Şiir",
+"bannedWord2" :"Mısra",
+"bannedWord3" :"İsim",
+"bannedWord4" :"İlk",
+"bannedWord5" :"Kıta"
+},
+
+
+{
+"key" :"Bambu",
+"bannedWord1" :"Sazlık",
+"bannedWord2" :"Mobilya",
+"bannedWord3" :"Ağaç",
+"bannedWord4" :"Masa",
+"bannedWord5" :"Sandalye"
+},
+
+
+{
+"key" :"Yabani",
+"bannedWord1" :"Vahşi",
+"bannedWord2" :"İlkel",
+"bannedWord3" :"Hayat",
+"bannedWord4" :"Orman",
+"bannedWord5" :"Hayvan"
+},
+
+
+{
+"key" :"Yelpaze",
+"bannedWord1" :"Sıcak",
+"bannedWord2" :"Rüzgar",
+"bannedWord3" :"Yaz",
+"bannedWord4" :"Kadın",
+"bannedWord5" :"Sallamak"
+},
+
+
+{
+"key" :"Göçmen",
+"bannedWord1" :"Mülteci",
+"bannedWord2" :"Vize",
+"bannedWord3" :"Soğuk",
+"bannedWord4" :"Kuş",
+"bannedWord5" :"Sıcak"
+},
+
+
+{
+"key" :"Çuval",
+"bannedWord1" :"Torba",
+"bannedWord2" :"Doldurmak",
+"bannedWord3" :"Yem",
+"bannedWord4" :"Un",
+"bannedWord5" :"Koymak"
+},
+
+
+{
+"key" :"Talimat",
+"bannedWord1" :"Emir",
+"bannedWord2" :"Vermek",
+"bannedWord3" :"Fatura",
+"bannedWord4" :"Banka",
+"bannedWord5" :"Otomatik Ödeme"
+},
+
+
+{
+"key" :"Siftah",
+"bannedWord1" :"İlk",
+"bannedWord2" :"Gün",
+"bannedWord3" :"Satmak",
+"bannedWord4" :"Mal",
+"bannedWord5" :"Alışveriş"
+},
+
+
+{
+"key" :"Flama",
+"bannedWord1" :"Bayrak",
+"bannedWord2" :"Üçgen",
+"bannedWord3" :"Okul",
+"bannedWord4" :"İzci",
+"bannedWord5" :"Tören"
+},
+
+
+{
+"key" :"Ajanda",
+"bannedWord1" :"Defter",
+"bannedWord2" :"İş",
+"bannedWord3" :"Gün",
+"bannedWord4" :"Yazmak",
+"bannedWord5" :"Toplantı"
+},
+
+
+{
+"key" :"İşta",
+"bannedWord1" :"Acıkmak",
+"bannedWord2" :"Kesilmek",
+"bannedWord3" :"Açmak",
+"bannedWord4" :"Lezzet",
+"bannedWord5" :"Yemek"
+},
+
+
+{
+"key" :"İhale",
+"bannedWord1" :"Belediye",
+"bannedWord2" :"Girmek",
+"bannedWord3" :"Açmak",
+"bannedWord4" :"Yolsuzluk",
+"bannedWord5" :"Kazanmak"
+},
+
+
+{
+"key" :"Uyanık",
+"bannedWord1" :"Akıllı",
+"bannedWord2" :"Zeki",
+"bannedWord3" :"Açıkgöz",
+"bannedWord4" :"Kurnaz",
+"bannedWord5" :"Saf"
+},
+
+
+{
+"key" :"Pasaklı",
+"bannedWord1" :"Temiz",
+"bannedWord2" :"Titiz",
+"bannedWord3" :"Kirli",
+"bannedWord4" :"Düzenli",
+"bannedWord5" :"Karışık"
+},
+
+
+{
+"key" :"Hile",
+"bannedWord1" :"Aldatmak",
+"bannedWord2" :"Kandırmak",
+"bannedWord3" :"Oyun",
+"bannedWord4" :"Yapmak",
+"bannedWord5" :"Kumar"
+},
+
+
+{
+"key" :"Halay",
+"bannedWord1" :"Düğün",
+"bannedWord2" :"Çekmek",
+"bannedWord3" :"Oynamak",
+"bannedWord4" :"Mendil",
+"bannedWord5" :"Kol"
+},
+
+
+{
+"key" :"Firar",
+"bannedWord1" :"Kaçak",
+"bannedWord2" :"Hapis",
+"bannedWord3" :"Asker",
+"bannedWord4" :"Mahkum",
+"bannedWord5" :"Etmek"
+},
+
+
+{
+"key" :"Plaket",
+"bannedWord1" :"Ödül",
+"bannedWord2" :"Tören",
+"bannedWord3" :"Başarı",
+"bannedWord4" :"Vermek",
+"bannedWord5" :"Teşekkür"
+},
+
+
+{
+"key" :"Fular",
+"bannedWord1" :"Eşarp",
+"bannedWord2" :"Bağlamak",
+"bannedWord3" :"Baş",
+"bannedWord4" :"Boyun",
+"bannedWord5" :"Kadın"
+},
+
+{
+"key" :"Kaos",
+"bannedWord1" :"Karışıklık",
+"bannedWord2" :"Ortam",
+"bannedWord3" :"Kargaşa",
+"bannedWord4" :"Düzen",
+"bannedWord5" :"Yaratmak"
+},
+
+{
+"key" :"Sırık",
+"bannedWord1" :"Uzun",
+"bannedWord2" :"Atlamak",
+"bannedWord3" :"Boy",
+"bannedWord4" :"Atletizm",
+"bannedWord5" :"Fasulye"
+},
+
+{
+"key" :"Staj",
+"bannedWord1" :"Öğrenci",
+"bannedWord2" :"Çalışmak",
+"bannedWord3" :"Üniversite",
+"bannedWord4" :"Tecrübe",
+"bannedWord5" :"İş"
+},
+
+{
+"key" :"Arıza",
+"bannedWord1" :"Bozuk",
+"bannedWord2" :"Tamir",
+"bannedWord3" :"Çalışmak",
+"bannedWord4" :"Telefon",
+"bannedWord5" :"Elektrik"
+},
+
+{
+"key" :"Tecrübe",
+"bannedWord1" :"İş",
+"bannedWord2" :"Kazanmak",
+"bannedWord3" :"Çalışmak",
+"bannedWord4" :"Deneyim",
+"bannedWord5" :"Yıl"
+},
+
+{
+"key" :"Macun",
+"bannedWord1" :"Cam",
+"bannedWord2" :"Pencere",
+"bannedWord3" :"Tutmak",
+"bannedWord4" :"Kenar",
+"bannedWord5" :"Mesir"
+},
+
+{
+"key" :"Suistimal",
+"bannedWord1" :"İyi",
+"bannedWord2" :"Niyet",
+"bannedWord3" :"Kullanmak",
+"bannedWord4" :"Faydalanmak",
+"bannedWord5" :"Kötü"
+},
+
+{
+"key" :"Sıska",
+"bannedWord1" :"Zayıf",
+"bannedWord2" :"İnce",
+"bannedWord3" :"Çelimsiz",
+"bannedWord4" :"Şişman",
+"bannedWord5" :"Hasta"
+},
+
+{
+"key" :"Yadigar",
+"bannedWord1" :"Aile",
+"bannedWord2" :"Hatıra",
+"bannedWord3" :"Değerli",
+"bannedWord4" :"Miras",
+"bannedWord5" :"Bırakmak"
+},
+
+{
+"key" :"Esir",
+"bannedWord1" :"Mahkum",
+"bannedWord2" :"Savaş",
+"bannedWord3" :"Düşmek",
+"bannedWord4" :"Tutsak",
+"bannedWord5" :"Kamp"
+},
+
+{
+"key" :"Mızıkçı",
+"bannedWord1" :"Çocuk",
+"bannedWord2" :"Küsmek",
+"bannedWord3" :"Darılmak",
+"bannedWord4" :"Bozmak",
+"bannedWord5" :"Oyun"
+},
+
+{
+"key" :"Nadir",
+"bannedWord1" :"Zor",
+"bannedWord2" :"Az",
+"bannedWord3" :"Bulmak",
+"bannedWord4" :"Sık",
+"bannedWord5" :"Çok"
+},
+
+{
+"key" :"Çavdar",
+"bannedWord1" :"Arpa",
+"bannedWord2" :"Tahıl",
+"bannedWord3" :"Buğday",
+"bannedWord4" :"Kepek",
+"bannedWord5" :"Ekmek"
+},
+
+{
+"key" :"Buğu",
+"bannedWord1" :"Buhar",
+"bannedWord2" :"Cam",
+"bannedWord3" :"Su",
+"bannedWord4" :"Sıcak",
+"bannedWord5" :"Araba"
+},
+
+{
+"key" :"Patika",
+"bannedWord1" :"Keçi yolu",
+"bannedWord2" :"Orman",
+"bannedWord3" :"Kestirme",
+"bannedWord4" :"Yürümek",
+"bannedWord5" :"Dağ"
+},
+
+{
+"key" :"Veresiye",
+"bannedWord1" :"Peşin",
+"bannedWord2" :"Borç",
+"bannedWord3" :"Satın almak",
+"bannedWord4" :"Ödemek",
+"bannedWord5" :"Defter"
+},
+
+{
+"key" :"Abluka",
+"bannedWord1" :"Etraf",
+"bannedWord2" :"Kuşatma",
+"bannedWord3" :"Savaş",
+"bannedWord4" :"Çevirmek",
+"bannedWord5" :"Düşman"
+},
+
+{
+"key" :"Ucuzluk",
+"bannedWord1" :"İndirim",
+"bannedWord2" :"Pahalı",
+"bannedWord3" :"Yüzde",
+"bannedWord4" :"Fiyat",
+"bannedWord5" :"Vitrin"
+},
+
+{
+"key" :"Performans",
+"bannedWord1" :"Değerlendirme",
+"bannedWord2" :"Başarı",
+"bannedWord3" :"Ödev",
+"bannedWord4" :"Ders",
+"bannedWord5" :"Yüksek"
+},
+
+{
+"key" :"Güzergah",
+"bannedWord1" :"Yol",
+"bannedWord2" :"Araba",
+"bannedWord3" :"Rota",
+"bannedWord4" :"Servis",
+"bannedWord5" :"Takip etmek"
+},
+
+{
+"key" :"Paranoya",
+"bannedWord1" :"Şüphe",
+"bannedWord2" :"Akıl",
+"bannedWord3" :"Ruh",
+"bannedWord4" :"Hastalık",
+"bannedWord5" :"Deli"
+},
+
+{
+"key" :"Feshetmek",
+"bannedWord1" :"Antlaşma",
+"bannedWord2" :"Sözleşme",
+"bannedWord3" :"İptal",
+"bannedWord4" :"Geçersiz",
+"bannedWord5" :"Bozmak"
+},
+
+{
+"key" :"Zeybek",
+"bannedWord1" :"Atatürk",
+"bannedWord2" :"Oyun",
+"bannedWord3" :"Ege",
+"bannedWord4" :"Efe",
+"bannedWord5" :"Sarı"
+},
+
+{
+"key" :"Monoton",
+"bannedWord1" :"Aynı",
+"bannedWord2" :"Sıkıcı",
+"bannedWord3" :"Sıradan",
+"bannedWord4" :"Benzer",
+"bannedWord5" :"Rutin"
+},
+
+{
+"key" :"Boşboğaz",
+"bannedWord1" :"Konuşmak",
+"bannedWord2" :"Geveze",
+"bannedWord3" :"Sır",
+"bannedWord4" :"Söylemek",
+"bannedWord5" :"Anlatmak"
+},
+
+{
+"key" :"Doz",
+"bannedWord1" :"Miktar",
+"bannedWord2" :"İlaç",
+"bannedWord3" :"Doktor",
+"bannedWord4" :"Reçete",
+"bannedWord5" :"Aşırı"
+},
+
+{
+"key" :"Porsiyon",
+"bannedWord1" :"Yemek",
+"bannedWord2" :"Tabak",
+"bannedWord3" :"Lokanta",
+"bannedWord4" :"Yarım",
+"bannedWord5" :"Restoran"
+},
+
+{
+"key" :"Kabin",
+"bannedWord1" :"Giyinmek",
+"bannedWord2" :"Duş",
+"bannedWord3" :"Denemek",
+"bannedWord4" :"Mağaza",
+"bannedWord5" :"Kıyafet"
+},
+
+{
+"key" :"Servet",
+"bannedWord1" :"Kazanmak",
+"bannedWord2" :"Zenginlik",
+"bannedWord3" :"Mal",
+"bannedWord4" :"Mülk",
+"bannedWord5" :"Para"
+},
+
+{
+"key" :"Tedarik",
+"bannedWord1" :"Bulmak",
+"bannedWord2" :"Sağlamak",
+"bannedWord3" :"Malzeme",
+"bannedWord4" :"Etmek",
+"bannedWord5" :"Hazırlık"
+},
+
+{
+"key" :"Tabure",
+"bannedWord1" :"Oturmak",
+"bannedWord2" :"Sandalye",
+"bannedWord3" :"Koltuk",
+"bannedWord4" :"Yemekhane",
+"bannedWord5" :"Sırt"
+},
+
+{
+"key" :"Erezyon",
+"bannedWord1" :"Toprak",
+"bannedWord2" :"Kayma",
+"bannedWord3" :"Ağaç",
+"bannedWord4" :"Heyelan",
+"bannedWord5" :"TEMA"
+},
+
+{
+"key" :"Çamaşır",
+"bannedWord1" :"Kirli",
+"bannedWord2" :"Yıkamak",
+"bannedWord3" :"Giymek",
+"bannedWord4" :"Makine",
+"bannedWord5" :"Deterjan"
+},
+
+{
+"key" :"Numune",
+"bannedWord1" :"Örnek",
+"bannedWord2" :"Vermek",
+"bannedWord3" :"Tahlil",
+"bannedWord4" :"Yemek",
+"bannedWord5" :"Küçük"
+},
+
+{
+"key" :"Miço",
+"bannedWord1" :"Tayfa",
+"bannedWord2" :"Gemi",
+"bannedWord3" :"Kaptan",
+"bannedWord4" :"Deniz",
+"bannedWord5" :"Yardımcı"
+},
+
+{
+"key" :"Eskimo",
+"bannedWord1" :"Kutup",
+"bannedWord2" :"Buzul",
+"bannedWord3" :"Kar",
+"bannedWord4" :"Soğuk",
+"bannedWord5" :"Balık"
+},
+
+{
+"key" :"Hamak",
+"bannedWord1" :"Yatmak",
+"bannedWord2" :"Ağaç",
+"bannedWord3" :"Sallanmak",
+"bannedWord4" :"Kurmak",
+"bannedWord5" :"Piknik"
+},
+
+{
+"key" :"Gaddar",
+"bannedWord1" :"Acımasız",
+"bannedWord2" :"Sert",
+"bannedWord3" :"Katı",
+"bannedWord4" :"Merhamet",
+"bannedWord5" :"İnsaf"
+},
+
+{
+"key" :"Çadır",
+"bannedWord1" :"Kamp",
+"bannedWord2" :"Uyku tulumu",
+"bannedWord3" :"Kurmak",
+"bannedWord4" :"Doğa",
+"bannedWord5" :"Tatil"
+},
+
+{
+"key" :"Hasır",
+"bannedWord1" :"Sepet",
+"bannedWord2" :"Şapka",
+"bannedWord3" :"Plaj",
+"bannedWord4" :"Deniz",
+"bannedWord5" :"Sermek"
+},
+
+{
+"key" :"Bukalemun",
+"bannedWord1" :"Hayvan",
+"bannedWord2" :"Renk",
+"bannedWord3" :"Değişmek",
+"bannedWord4" :"Kertenkele",
+"bannedWord5" :"Sürüngen"
+},
+
+{
+"key" :"Konvoy",
+"bannedWord1" :"Düğün",
+"bannedWord2" :"Araba",
+"bannedWord3" :"Gitmek",
+"bannedWord4" :"Arka",
+"bannedWord5" :"Takip"
+},
+
+{
+"key" :"Takunya",
+"bannedWord1" :"Tahta",
+"bannedWord2" :"Terlik",
+"bannedWord3" :"Ayakkabı",
+"bannedWord4" :"Giymek",
+"bannedWord5" :"Hamam"
+},
+
+{
+"key" :"Aksi",
+"bannedWord1" :"Sinirli",
+"bannedWord2" :"Zıt",
+"bannedWord3" :"Asabi",
+"bannedWord4" :"Huysuz",
+"bannedWord5" :"Ters"
+},
+
+{
+"key" :"Vezne",
+"bannedWord1" :"Banka",
+"bannedWord2" :"Para",
+"bannedWord3" :"Ödeme",
+"bannedWord4" :"Almak",
+"bannedWord5" :"Muhasebe"
+},
+
+{
+"key" :"Oluk",
+"bannedWord1" :"Akmak",
+"bannedWord2" :"Su",
+"bannedWord3" :"Yağmur",
+"bannedWord4" :"Saçak",
+"bannedWord5" :"Boru"
+},
+
+{
+"key" :"Cephe",
+"bannedWord1" :"Savaş",
+"bannedWord2" :"Ordu",
+"bannedWord3" :"Asker",
+"bannedWord4" :"Saldırmak",
+"bannedWord5" :"Barış"
+},
+
+{
+"key" :"Çevik",
+"bannedWord1" :"Kuvvet",
+"bannedWord2" :"Polis",
+"bannedWord3" :"Asker",
+"bannedWord4" :"Güç",
+"bannedWord5" :"Hız"
+},
+
+{
+"key" :"Yamaç",
+"bannedWord1" :"Uçurum",
+"bannedWord2" :"Paraşüt",
+"bannedWord3" :"Yüksek",
+"bannedWord4" :"Dağ",
+"bannedWord5" :"Dik"
+},
+
+{
+"key" :"Pil",
+"bannedWord1" :"Kalem",
+"bannedWord2" :"İnce",
+"bannedWord3" :"Kumanda",
+"bannedWord4" :"El feneri",
+"bannedWord5" :"Fen"
+},
+
+{
+"key" :"Ziraat",
+"bannedWord1" :"Tarım",
+"bannedWord2" :"Çiftçi",
+"bannedWord3" :"Toprak",
+"bannedWord4" :"Hayvan",
+"bannedWord5" :"Banka"
+},
+
+{
+"key" :"Prospektüs",
+"bannedWord1" :"İlaç",
+"bannedWord2" :"Eczane",
+"bannedWord3" :"Okumak",
+"bannedWord4" :"İçindekiler",
+"bannedWord5" :"Kullanmak"
+},
+
+{
+"key" :"Mücevher",
+"bannedWord1" :"Kolye",
+"bannedWord2" :"Altın",
+"bannedWord3" :"Bilezik",
+"bannedWord4" :"Kadın",
+"bannedWord5" :"Takı"
+},
+
+{
+"key" :"Reçete",
+"bannedWord1" :"İlaç",
+"bannedWord2" :"Eczane",
+"bannedWord3" :"Hasta",
+"bannedWord4" :"Doktor",
+"bannedWord5" :"Hastane"
+},
+
+{
+"key" :"Banka",
+"bannedWord1" :"Para",
+"bannedWord2" :"Çek",
+"bannedWord3" :"Hesap",
+"bannedWord4" :"Kredi Kartı",
+"bannedWord5" :"Müşteri"
+},
+
+{
+"key" :"Düğün",
+"bannedWord1" :"Yüzük",
+"bannedWord2" :"Evlenmek",
+"bannedWord3" :"Gelin",
+"bannedWord4" :"Damat",
+"bannedWord5" :"Misafir"
+},
+
+{
+"key" :"Akrep",
+"bannedWord1" :"Saat",
+"bannedWord2" :"Zaman",
+"bannedWord3" :"Yelkovan",
+"bannedWord4" :"İbre",
+"bannedWord5" :"Burç"
+},
+
+{
+"key" :"Tavla",
+"bannedWord1" :"Oyun",
+"bannedWord2" :"Mars",
+"bannedWord3" :"Pul",
+"bannedWord4" :"Zar",
+"bannedWord5" :"Yenmek"
+},
+
+{
+"key" :"Bill Gates",
+"bannedWord1" :"Bilgisayar",
+"bannedWord2" :"Zengin",
+"bannedWord3" :"Microsoft",
+"bannedWord4" :"Windows",
+"bannedWord5" :"Steve Jobs"
+},
+
+{
+"key" :"Telefon",
+"bannedWord1" :"Tuş",
+"bannedWord2" :"Alo",
+"bannedWord3" :"Numara",
+"bannedWord4" :"Ahize",
+"bannedWord5" :"Graham Bell"
+},
+
+{
+"key" :"Okey",
+"bannedWord1" :"Istaka",
+"bannedWord2" :"Taş",
+"bannedWord3" :"Oyun",
+"bannedWord4" :"Zar",
+"bannedWord5" :"Dört Kişi"
+},
+
+{
+"key" :"Steteskop",
+"bannedWord1" :"Dinlemek",
+"bannedWord2" :"Hasta",
+"bannedWord3" :"Ses",
+"bannedWord4" :"Doktor",
+"bannedWord5" :"Kalp"
+},
+
+{
+"key" :"Mücevher",
+"bannedWord1" :"Kolye",
+"bannedWord2" :"Altın",
+"bannedWord3" :"Bilezik",
+"bannedWord4" :"Kadın",
+"bannedWord5" :"Takı"
+},
+
+{
+"key" :"Çorap",
+"bannedWord1" :"Ten rengi",
+"bannedWord2" :"İnce",
+"bannedWord3" :"Giymek",
+"bannedWord4" :"Ayak",
+"bannedWord5" :"Kaçmak"
+},
+
+{
+"key" :"Kalem",
+"bannedWord1" :"Kağıt",
+"bannedWord2" :"Tükenmez",
+"bannedWord3" :"Kurşun",
+"bannedWord4" :"Dolma",
+"bannedWord5" :"Yazmak"
+},
+
+{
+"key" :"Fermuar",
+"bannedWord1" :"Kıyafet",
+"bannedWord2" :"Kapatmak",
+"bannedWord3" :"Kot",
+"bannedWord4" :"Giymek",
+"bannedWord5" :"Pantolon"
+},
+
+{
+"key" :"Daktilo",
+"bannedWord1" :"Yazmak",
+"bannedWord2" :"Basmak",
+"bannedWord3" :"Kağıt",
+"bannedWord4" :"Harf",
+"bannedWord5" :"Tuş"
+},
+
+{
+"key" :"Altın",
+"bannedWord1" :"Değerli",
+"bannedWord2" :"Sarraf",
+"bannedWord3" :"Çeyrek",
+"bannedWord4" :"Takmak",
+"bannedWord5" :"Kuyumcu"
+},
+
+{
+"key" :"Panik Atak",
+"bannedWord1" :"Psikolojik",
+"bannedWord2" :"Telaş",
+"bannedWord3" :"Hastalık",
+"bannedWord4" :"Ölüm Korkusu",
+"bannedWord5" :"Depresyon"
+},
+
+{
+"key" :"Ketçap",
+"bannedWord1" :"Mayonez",
+"bannedWord2" :"Patates",
+"bannedWord3" :"Makarna",
+"bannedWord4" :"Domates Sosu",
+"bannedWord5" :"Hamburger"
+},
+
+{
+"key" :"Avrupa Yakası",
+"bannedWord1" :"İstanbul",
+"bannedWord2" :"ATV",
+"bannedWord3" :"Anadolu",
+"bannedWord4" :"Dizi",
+"bannedWord5" :"Gülse Birsel"
+},
+
+{
+"key" :"Gözlük",
+"bannedWord1" :"Cam",
+"bannedWord2" :"Çerçeve",
+"bannedWord3" :"Görmek",
+"bannedWord4" :"Göz",
+"bannedWord5" :"Güneş"
+},
+
+{
+"key" :"Panda",
+"bannedWord1" :"Beyaz",
+"bannedWord2" :"Oyuncak",
+"bannedWord3" :"Nesli tükenmek",
+"bannedWord4" :"Ayı",
+"bannedWord5" :"Dondurma"
+},
+
+{
+"key" :"Aseton",
+"bannedWord1" :"Silmek",
+"bannedWord2" :"Kadın",
+"bannedWord3" :"Parmak",
+"bannedWord4" :"Oje",
+"bannedWord5" :"Sürmek"
+},
+
+{
+"key" :"Emzik",
+"bannedWord1" :"Bebek",
+"bannedWord2" :"Meme",
+"bannedWord3" :"Emmek",
+"bannedWord4" :"Ağlamak",
+"bannedWord5" :"Naylon"
+},
+
+{
+"key" :"Yastık",
+"bannedWord1" :"Tüy",
+"bannedWord2" :"Uyku",
+"bannedWord3" :"Yatak",
+"bannedWord4" :"Yumuşak",
+"bannedWord5" :"Yorgan"
+},
+
+{
+"key" :"Maymun",
+"bannedWord1" :"Muz",
+"bannedWord2" :"Evrim",
+"bannedWord3" :"Goril",
+"bannedWord4" :"Hayvan",
+"bannedWord5" :"Charlie"
+},
+
+{
+"key" :"Balık",
+"bannedWord1" :"Olta",
+"bannedWord2" :"Deniz",
+"bannedWord3" :"Rakı",
+"bannedWord4" :"Fırın",
+"bannedWord5" :"Hamsi"
+},
+
+{
+"key" :"Otel",
+"bannedWord1" :"Tatil",
+"bannedWord2" :"Oda",
+"bannedWord3" :"Seyahat",
+"bannedWord4" :"Uyumak",
+"bannedWord5" :"Yıldız"
+},
+
+{
+"key" :"Masa",
+"bannedWord1" :"Dosya",
+"bannedWord2" :"Bilgisayar",
+"bannedWord3" :"Yemek",
+"bannedWord4" :"Kalem",
+"bannedWord5" :"Çekmece"
+},
+
+{
+"key" :"Aşçı",
+"bannedWord1" :"Meslek",
+"bannedWord2" :"Mutfak",
+"bannedWord3" :"Yapmak",
+"bannedWord4" :"Yemek",
+"bannedWord5" :"Önlük"
+},
+
+{
+"key" :"Brifing",
+"bannedWord1" :"Bilgilendirmek",
+"bannedWord2" :"Asker",
+"bannedWord3" :"Emir",
+"bannedWord4" :"Vermek",
+"bannedWord5" :"Özet"
+},
+
+{
+"key" :"Sirkülasyon",
+"bannedWord1" :"Gazete",
+"bannedWord2" :"Hava",
+"bannedWord3" :"Tiraj",
+"bannedWord4" :"Dolaşım",
+"bannedWord5" :"Devir daim"
+},
+
+{
+"key" :"Aranjman",
+"bannedWord1" :"İskender Paydaş",
+"bannedWord2" :"Çiçek",
+"bannedWord3" :"Düzenleme",
+"bannedWord4" :"Şarkı",
+"bannedWord5" :"Söz"
+},
+
+{
+"key" :"Büyük İskender",
+"bannedWord1" :"Makedonya",
+"bannedWord2" :"Antik",
+"bannedWord3" :"İmparator",
+"bannedWord4" :"Kral",
+"bannedWord5" :"Helenistik"
+},
+
+{
+"key" :"Dejenerasyon",
+"bannedWord1" :"Bozulma",
+"bannedWord2" :"Yıpranma",
+"bannedWord3" :"İlişki",
+"bannedWord4" :"Zarar",
+"bannedWord5" :"Yozlaşma"
+},
+
+{
+"key" :"Anektod",
+"bannedWord1" :"Makale",
+"bannedWord2" :"Not",
+"bannedWord3" :"Fıkra",
+"bannedWord4" :"Yazmak",
+"bannedWord5" :"Düşmek"
+},
+
+{
+"key" :"Buji",
+"bannedWord1" :"Motor",
+"bannedWord2" :"Kıvılcım",
+"bannedWord3" :"Yanma",
+"bannedWord4" :"Araba",
+"bannedWord5" :"Meme"
+},
+
+{
+"key" :"Guliver'in Gezileri",
+"bannedWord1" :"Cüce",
+"bannedWord2" :"Çocuk",
+"bannedWord3" :"Hikaye",
+"bannedWord4" :"Dev",
+"bannedWord5" :"Gemi"
+},
+
+{
+"key" :"Eleştiri",
+"bannedWord1" :"Tenkit",
+"bannedWord2" :"İnceleme",
+"bannedWord3" :"Tanıtma",
+"bannedWord4" :"Değerlendirme",
+"bannedWord5" :"Yorum"
+},
+
+
+{
+"key" :"Kafatası",
+"bannedWord1" :"Kemik",
+"bannedWord2" :"Kızılmaske",
+"bannedWord3" :"Baş",
+"bannedWord4" :"Beyin",
+"bannedWord5" :"Korumak"
+},
+
+{
+"key" :"Vurgun",
+"bannedWord1" :"Deniz",
+"bannedWord2" :"Basınç",
+"bannedWord3" :"Yemek",
+"bannedWord4" :"Dalgıç",
+"bannedWord5" :"Felç"
+},
+
+{
+"key" :"Sineye Çekmek",
+"bannedWord1" :"Katlanmak",
+"bannedWord2" :"Razı olmak",
+"bannedWord3" :"Susmak",
+"bannedWord4" :"Kabullenmek",
+"bannedWord5" :"Tahammül"
+},
+
+{
+"key" :"Nevresim",
+"bannedWord1" :"Yorgan",
+"bannedWord2" :"Takım",
+"bannedWord3" :"Örtü",
+"bannedWord4" :"Yatak",
+"bannedWord5" :"Kılıf"
+},
+
+{
+"key" :"Hipnoz",
+"bannedWord1" :"Bilinçaltı",
+"bannedWord2" :"Altında",
+"bannedWord3" :"Beyin",
+"bannedWord4" :"Uyku",
+"bannedWord5" :"Olmak"
+},
+
+{
+"key" :"Maden",
+"bannedWord1" :"Kaynak",
+"bannedWord2" :"Çıkarmak",
+"bannedWord3" :"Kömür",
+"bannedWord4" :"Yeraltı",
+"bannedWord5" :"Bor"
+},
+
+{
+"key" :"Tedavül",
+"bannedWord1" :"Kalkmak",
+"bannedWord2" :"Geçerli",
+"bannedWord3" :"Para",
+"bannedWord4" :"Dolaşmak",
+"bannedWord5" :"Sürüm"
+},
+
+{
+"key" :"Müsteşar",
+"bannedWord1" :"Derece",
+"bannedWord2" :"Memur",
+"bannedWord3" :"Elçilik",
+"bannedWord4" :"Makam",
+"bannedWord5" :"Bakan"
+},
+
+{
+"key" :"Kıvanç Tatlıtuğ",
+"bannedWord1" :"Kuzey Güney",
+"bannedWord2" :"Behlül",
+"bannedWord3" :"Bihter",
+"bannedWord4" :"Dizi",
+"bannedWord5" :"Aşk-ı Memnu"
+},
+
+{
+"key" :"Ajans",
+"bannedWord1" :"Haber",
+"bannedWord2" :"Reklam",
+"bannedWord3" :"Televizyon",
+"bannedWord4" :"Manken",
+"bannedWord5" :"Radyo"
+},
+
+{
+"key" :"Testosteron",
+"bannedWord1" :"Erkek",
+"bannedWord2" :"Testis",
+"bannedWord3" :"Androjen",
+"bannedWord4" :"Hormon",
+"bannedWord5" :"Cinsel"
+},
+
+{
+"key" :"Androjen",
+"bannedWord1" :"Hormon",
+"bannedWord2" :"Erkek",
+"bannedWord3" :"Testis",
+"bannedWord4" :"Testosteron",
+"bannedWord5" :"Östrojen"
+},
+
+{
+"key" :"Mesafe",
+"bannedWord1" :"Ara",
+"bannedWord2" :"Katetmek",
+"bannedWord3" :"Uzaklık",
+"bannedWord4" :"Irak",
+"bannedWord5" :"Çok"
+},
+
+{
+"key" :"Model",
+"bannedWord1" :"Manken",
+"bannedWord2" :"Defile",
+"bannedWord3" :"Top",
+"bannedWord4" :"Araba",
+"bannedWord5" :"Foto"
+},
+
+{
+"key" :"",
+"bannedWord1" :"",
+"bannedWord2" :"",
+"bannedWord3" :"",
+"bannedWord4" :"",
+"bannedWord5" :""
+},
+
+{
+"key" :"Liberal",
+"bannedWord1" :"Parti",
+"bannedWord2" :"Solcu",
+"bannedWord3" :"Siyasi",
+"bannedWord4" :"Özgürlükçü",
+"bannedWord5" :"Demokrat"
+},
+
+{
+"key" :"Yardım",
+"bannedWord1" :"Destek",
+"bannedWord2" :"İlk",
+"bannedWord3" :"Bağış",
+"bannedWord4" :"Kızılay",
+"bannedWord5" :"Yapmak"
+},
+
+{
+"key" :"Adidas",
+"bannedWord1" :"Ayakkabı",
+"bannedWord2" :"Marka",
+"bannedWord3" :"Giymek",
+"bannedWord4" :"Spor",
+"bannedWord5" :"Nike"
+},
+
+{
+"key" :"Federasyon",
+"bannedWord1" :"Futbol",
+"bannedWord2" :"Birleşme",
+"bannedWord3" :"Takım",
+"bannedWord4" :"Kuruluş",
+"bannedWord5" :"Örgüt"
+},
+
+{
+"key" :"Üniter",
+"bannedWord1" :"Bağımsız",
+"bannedWord2" :"Yapı",
+"bannedWord3" :"Tek",
+"bannedWord4" :"Devlet",
+"bannedWord5" :"Çok"
+}
+
+]
